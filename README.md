@@ -2,7 +2,7 @@
 **Stop learning from 100-page PDFs and dusty textbooks.**
 
 [✨MY_GITHUB_PAGES_LINK_HERE]
-https://golapsaroar.github.io/OOP-visual-guide/oop_blog_v6.html
+(https://golapsaroar.github.io/OOP-visual-guide/)
 
 
 🛑 The Problem: Learning OOP is usually a grind.
